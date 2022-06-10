@@ -1,5 +1,5 @@
 # projekt-bazy
-Ścieżka do strony głównej na serwerze: /22.04/
+Ścieżka do strony głównej na serwerze: /22.04/\n
 Dane do połączenia z DB:
     Login: susy
     Hasło: novell
